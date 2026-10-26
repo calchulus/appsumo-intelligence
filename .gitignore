@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.tmp
+_test_wrap.html
+_check.js
+*.log

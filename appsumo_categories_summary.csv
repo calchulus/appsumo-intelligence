@@ -1,0 +1,28 @@
+group,category,url,products,fetched,mismatches
+Marketing,Content Marketing,https://appsumo.com/marketing/content-marketing/,25,25,0
+Marketing,Email & SMS Marketing,https://appsumo.com/marketing/email-sms-marketing/,9,9,0
+Marketing,Paid Ads,https://appsumo.com/marketing/paid-ads/,5,5,0
+Marketing,SEO & Analytics,https://appsumo.com/marketing/seo-analytics/,27,27,0
+Marketing,Social Media,https://appsumo.com/marketing/social-media/,11,11,0
+Marketing,Webinars & Streaming,https://appsumo.com/marketing/webinars-streaming/,2,2,0
+Sales & Leads,CRM,https://appsumo.com/sales-leads/crm/,2,2,0
+Sales & Leads,Ecommerce,https://appsumo.com/sales-leads/ecommerce/,5,5,0
+Sales & Leads,Lead Generation,https://appsumo.com/sales-leads/lead-generation/,17,17,0
+Media & Design,Audio & Podcasting,https://appsumo.com/media-design/audio-podcasting/,8,8,0
+Media & Design,Design & Branding,https://appsumo.com/media-design/design-branding/,21,21,0
+Media & Design,Photos & Stock,https://appsumo.com/media-design/photos-stock/,11,11,0
+Media & Design,Video,https://appsumo.com/media-design/video/,13,13,0
+Operations,Business & Entrepreneurship,https://appsumo.com/operations/business-entrepreneurship/,31,31,0
+Operations,Calendar & Scheduling,https://appsumo.com/operations/calendar-scheduling/,3,3,0
+Operations,"Docs, Legal & HR",https://appsumo.com/operations/docs-legal-hr/,13,13,0
+Operations,Finance & Accounting,https://appsumo.com/operations/finance-accounting/,8,8,0
+Operations,Productivity & Automation,https://appsumo.com/operations/productivity-automation/,33,33,0
+Operations,Project Management,https://appsumo.com/operations/project-management/,14,14,0
+Build & Code,Course & Community Builders,https://appsumo.com/build-code/course-community-builders/,8,8,0
+Build & Code,Developer Tools,https://appsumo.com/build-code/developer-tools/,18,18,0
+Build & Code,Forms & App Builders,https://appsumo.com/build-code/forms-app-builders/,13,13,0
+Build & Code,Security & Compliance,https://appsumo.com/build-code/security-compliance/,8,8,0
+Build & Code,Website Builders & WordPress,https://appsumo.com/build-code/website-builders-wordpress/,19,19,0
+Customer Engagement,Chatbots & AI Agents,https://appsumo.com/customer-engagement/chatbots-ai-agents/,7,7,0
+Customer Engagement,Customer Support,https://appsumo.com/customer-engagement/customer-support/,5,5,0
+Customer Engagement,Feedback & Surveys,https://appsumo.com/customer-engagement/feedback-surveys/,5,5,0
