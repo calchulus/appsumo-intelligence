@@ -18,8 +18,13 @@ TEST = os.path.join(HERE, "_test_wrap.html")
 
 # Test index.html directly when present: that is the exact file GitHub Pages serves, so it
 # is the thing worth verifying. Fall back to wrapping the body-only artifact fragment.
+# ASD_URL overrides the target so the same suite can verify the live Pages deployment.
+LIVE = os.environ.get("ASD_URL")
 PAGES = os.path.join(HERE, "index.html")
-if os.path.exists(PAGES):
+if LIVE:
+    URL = LIVE
+    TARGET = LIVE + " (LIVE deployment)"
+elif os.path.exists(PAGES):
     URL = "file://" + PAGES
     TARGET = "index.html (the deployed file)"
 else:
